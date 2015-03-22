@@ -1,4 +1,4 @@
-# x15_hash (built for Kobocoin)
+# x15_hash - modified to hash kobocoin correctly
 
 This module has been built using the hashblock.h of Kobocoin. 
 
