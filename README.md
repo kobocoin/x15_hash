@@ -21,4 +21,4 @@ Please check your coin's hashblock.h to verify this particular copy of the x15_h
 14. shabal
 15. whirlpool
 
-Those are the 15 hashing algorithms that make up Kobocoin's x15 hashing protocol.
+These are the 15 hashing algorithms that make up Kobocoin's x15 hashing protocol.
