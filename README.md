@@ -8,9 +8,9 @@ Please check your coin's hashblock.h to verify this particular copy of the x15_h
 1. blake
 2. bmw
 3. groestl
-4. jh
-5. keccak
-6. skein
+4. skein
+5. jh
+6. keccak
 7. luffa
 8. cubehash
 9. shavite
